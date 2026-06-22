@@ -9,7 +9,7 @@ This repository documents my learning journey through the **Python Foundations**
 ```
 python-foundations-aiml/
 │
-├── week-01-python-basics/
+├── week-01-introduction-to-python/
 │   ├── notes/
 │   │   └── week01_concepts.md              # Key concepts from the session
 │   └── exercises/
@@ -24,7 +24,7 @@ python-foundations-aiml/
 
 | Week | Topic | Status | 
 |------|-------|--------|
-| Week 1 | Python Basics — Variables, Data Structures, Conditionals, Loops, Functions | ✅ Done |
+| Week 1 | Introduction to Python — Variables, Data Structures, Conditionals, Loops, Functions | ✅ Done |
 
 ---
 
